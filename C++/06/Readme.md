@@ -36,3 +36,21 @@ test3
 test4
 test5
 ```
+
+### 04 … ファイルの読み込み、出力
+入出力結果
+```
+Please enter the correct path of the file you want to load.
+
+>> test.txt
+******************************************************
+test1
+test2
+test3
+test4
+test5
+******************************************************
+
+>> test
+Failed to open file: test
+```
