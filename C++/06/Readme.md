@@ -37,7 +37,7 @@ test4
 test5
 ```
 
-### 04 … ファイルの読み込み、出力
+### 04 … ファイルの読み込み・出力
 入出力結果
 ```
 Please enter the correct path of the file you want to load.
@@ -53,4 +53,18 @@ test5
 
 >> test
 Failed to open file: test
+```
+
+### 05 … CSVファイルの読み込み・出力
+入出力結果
+```
+Please enter the correct path of the file you want to load.
+
+>> test.csv
+******************************************************
+	a(h)	b(h)	c(h)	d(h)	e(h)	
+1(i)	1	2	3	4	5	
+2(i)	6	7	8	9	10	
+3(i)	12	13	14	15	16	
+******************************************************
 ```
