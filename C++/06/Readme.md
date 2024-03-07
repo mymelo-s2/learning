@@ -18,3 +18,12 @@ Result of 1*5 is: 5
 >> 1/0
 Attempted to divide by zero!
 ```
+
+### 02 … 文字数カウント
+入出力結果
+```
+Please enter a word!!
+
+>> abcde
+Word length is 5 characters!!
+```
