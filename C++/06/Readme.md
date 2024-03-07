@@ -27,3 +27,12 @@ Please enter a word!!
 >> abcde
 Word length is 5 characters!!
 ```
+### 03 … ファイルの読み込み
+出力結果
+```
+test1
+test2
+test3
+test4
+test5
+```
